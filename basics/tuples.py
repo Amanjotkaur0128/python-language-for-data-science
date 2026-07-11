@@ -43,3 +43,15 @@
 
 # t3=t1+t2
 # print(t3)
+# a=(12,14,'hi',7.87,True)
+# a[2]=100
+# a=list(a)
+# print(a)
+# a[2]=100
+# a=tuple(a)
+# print(a)
+
+# j=["hello","Class","how","are","you"]
+# sum(j)
+
+# print("_".join(j))
